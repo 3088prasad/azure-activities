@@ -1,7 +1,7 @@
 # azure-activities
 # Using Your Own Data with Azure OpenAI
 
-This guide provides an overview of how to use your own data with Azure OpenAI, as covered in the AI-102T00-A Designing and Implementing a Microsoft Azure AI Solution course.
+This guide provides an overview of how to use your own data with Azure OpenAI, Designing and Implementing a Microsoft Azure AI Solution.
 
 ## Prerequisites
 
